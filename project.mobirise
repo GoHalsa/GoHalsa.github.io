@@ -749,43 +749,10 @@
           "_params": {}
         },
         {
-          "_params": {
-            "token": "34274679149.727bfe1.3609209835f04a63900a5146d695fb70",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 6,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bernard-hermant-hq3wzny3yz0-unsplash-2000x1333.jpg",
-            "overlay": true,
-            "overlayColor": "#efefef",
-            "overlayOpacity": "0.9"
-          },
-          "title": "Feed de Instagram",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Mostrar más</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-d"
-        },
-        {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "postToLoad": 3,
             "facebookToken": "",
             "facebook": "",
